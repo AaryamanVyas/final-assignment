@@ -30,5 +30,4 @@ High-Fidelity Prototype in Figma - https://www.figma.com/design/ZkmAmtBU7uSzpuYD
 https://github.com/user-attachments/assets/ac884853-236a-4bc0-94af-dcef1dd78b89
 
 
-Instructions
-For detailed instructions on how to share your Figma designs, refer to the final section of the "Animate and Test Your Prototype" video in the course.
+
